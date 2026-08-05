@@ -109,13 +109,10 @@ Python • Google ADK • Gemini • FastAPI • MCP
 [![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/sangemsudhakar8-alt/recipe-finder)
 
 ---
-
-# 📊 Contribution Graph
-
+## 📊 Contribution Graph
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangemsudhakar8-alt&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangemsudhakar8-alt&theme=tokyo-night"/>
 </p>
-
 ---
 
 <p align="center">
